@@ -1,0 +1,2 @@
+[02-Apr-2025 06:11:26 Europe/Berlin] PHP Warning:  Undefined variable $array in C:\xampp\htdocs\php-tutorial\day_3\error_exception\error_exception.php on line 22
+[02-Apr-2025 06:11:26 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\php-tutorial\day_3\error_exception\error_exception.php on line 22
